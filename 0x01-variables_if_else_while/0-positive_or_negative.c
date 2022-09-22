@@ -6,7 +6,7 @@
  *
  * Description: print value of n satus; zero, positive or nagative
  *
- * Return: Always 0(success)
+ * Return: Always 0 (Success)
  *
  */
 
